@@ -59,7 +59,7 @@ st.sidebar.title("Presentation Slides")
 st.sidebar.markdown(
 """
 ### Project Link
-[Open Colab Project](https://colab.research.google.com/drive/1DehgZ7x2Fd1nEzLB91VB1EOW8gddIMKm#scrollTo=xJDcetaUAim2)
+[Open Colab Project](https://colab.research.google.com/drive/1_29o5uKeD-zDnlRTZCiQKx4ydy-l849B#scrollTo=ieQtS3sgADqW)
 
 📊 **PPT Presentation**  
 [Open PPT Presentation](https://onedrive.live.com/personal/7cf96e7fa5ee36e6/_layouts/15/doc.aspx?resid=cd200921-e43f-4c72-8b23-4eae4d168a3c&cid=7cf96e7fa5ee36e6)
